@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobile browser color select\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-13 12:13+0000\n"
+"PO-Revision-Date: 2018-04-13 12:15+0000\n"
+"Last-Translator: admin <dev@papa.co.il>\n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: mobile-browser-color-select.php:77
+msgid "Choose color"
+msgstr "בחרו צבע"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.script.co.il/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mobile browser color select"
+msgstr "בחירת צבע לשונית הדפדפן"
+
+#: mobile-browser-color-select.php:79
+msgid "Save"
+msgstr "שמירה"
+
+#: mobile-browser-color-select.php:76
+msgid "Tab color"
+msgstr "צבע לשונית"
+
+#. Description of the plugin
+msgid "UPDATE YOUR BROWSER COLOR WITH JUST ONE CLICK."
+msgstr "עדכון צבע הלשונית בדפדפן הסלולרי בקליק אחד"
+
+#. Author of the plugin
+msgid "www.script.co.il"
+msgstr ""
